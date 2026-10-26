@@ -1,0 +1,1 @@
+Serve this static site over HTTPS. External websites linked here, including Alicia Galvin RD and LinkedIn, handle their services and information under their own terms. Review the privacy and terms information before launch.

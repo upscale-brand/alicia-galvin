@@ -1,0 +1,14 @@
+# Alicia Galvin site content notes
+
+Content and positioning were adapted from Alicia Galvin’s [official website](https://aliciagalvinrd.com/), including its [About](https://aliciagalvinrd.com/about/), [For Clients](https://aliciagalvinrd.com/for-patients/), [For Professionals](https://aliciagalvinrd.com/for-professionals/), [GI Guide](https://aliciagalvinrd.com/gi-guide/), and [Contact](https://aliciagalvinrd.com/contact-us/) pages, plus her [public LinkedIn profile](https://www.linkedin.com/in/alicia-galvin-med-rd-ld-ifncp-5b196639/).
+
+- Credentials: MEd, RD, LD, IFNCP. Education: BS in Nutritional Sciences, Texas A&M University; MEd in Counseling, University of North Texas; IFNCP training via the Integrative and Functional Nutrition Academy.
+- The bio says Alicia has practiced in Dallas–Fort Worth since 2010 and founded her private practice in 2013. It describes earlier inpatient work at Baylor Medical Center and home nutrition care with BioScript Infusion.
+- The site identifies her as a Clinical Science Liaison with Microbiome Labs, co-founder of SIBO Academy, functional GI dietitian, mentor, and educator.
+- Client focus areas listed by the site include GI conditions (including IBS, SIBO, ulcerative colitis, Crohn’s disease), autoimmune conditions, inflammation, and infertility. The client page says the practice is currently full, with individual sessions considered case by case. Verify availability before publishing.
+- Professional services include clinical mentoring, lab reviews, protocols, business consultation, speaking, corporate consultation, and clinician courses. The site lists course topics and fees; fees and offerings should be checked before launch.
+- Public contact: Alicia@AliciaGalvinRD.com and the site’s contact form. The website says appointments are in Dallas, virtual, or by phone.
+- Logo used in the header: [AG_Name-MarkTitle_Color_600.jpg](https://aliciagalvinrd.com/wp-content/uploads/2020/04/AG_Name-MarkTitle_Color_600.jpg). Footer uses the website’s white logo variant. Both are served from Alicia’s site to retain the supplied original asset.
+- Sampled brand values from current website styles: navy `#2E4055`; olive `#9A941D`; olive hover `#8E8811`; white `#FFFFFF`; gray `#757575`. The template’s default palette uses these colors. Alternate palette and custom color controls remain available.
+- The existing single-page section structure, navigation, palette controls, scripts, and motion behavior are retained. Existing responsive safeguards, lazy-loaded below-the-fold images, and image dimensions remain in place.
+- LinkedIn’s public indexed profile exposes the headline, current organization, location, Texas A&M education date range (2005–2008), listed affiliations, and follower/connection counts, but some experience and education entries are hidden. We avoid adding details not corroborated by the website or visible public profile.
